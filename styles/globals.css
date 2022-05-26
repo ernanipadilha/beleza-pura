@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.save {
+  margin-top: 10px;
+}
